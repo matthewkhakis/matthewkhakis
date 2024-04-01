@@ -2,7 +2,7 @@
 - 👀 I’m interested in design + dev
 - 🌱 I’m currently learning astro, tailwind, and shopify admin
 - 💞️ I’m looking to collaborate on *all*
-- 📫 How to reach me  
+- 📫 How to reach me  (email is best)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Also learning studio photography (live models and flat product shots)
 
